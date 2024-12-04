@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 
 ### Contacts: 
 * Telegram: <a href="https://t.me/annettetk" target="_blank">@annettetk</a>
+* Email: <a href="mailto:AnnetteTK@yandex.ru" target="_blank">annettetk@yandex.ru</a>
