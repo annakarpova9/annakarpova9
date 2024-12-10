@@ -1,19 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <img height="96" width="544" src="https://i.ibb.co/XzdRGQw/git.gif"/>
+</div>
 
 <!--
-**annakarpova9/annakarpova9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <div align="center">👋 Привет! </div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🐼 Обо мне
+
+Я Frontend-разработчик из Санкт-Петербурга.
 -->
+
+## <div align="left">💪 Skills</div> 
 
 <div align="center">
   
@@ -28,6 +26,6 @@ Here are some ideas to get you started:
 </div>
 -->
 
-### Contacts: 
+## 📞 Contacts: 
 * Telegram: <a href="https://t.me/annettetk" target="_blank">@annettetk</a>
 * Email: <a href="mailto:AnnetteTK@yandex.ru" target="_blank">annettetk@yandex.ru</a>
