@@ -1,6 +1,13 @@
+<!--
 <div align="center">
   <img height="96" width="544" src="https://i.ibb.co/XzdRGQw/git.gif"/>
 </div>
+-->
+
+<div align="center" style="max-width: 100%; overflow: hidden;">
+  <img src="https://i.ibb.co/XzdRGQw/git.gif" style="max-width: 100%; height: auto;" alt="Привет всем! Меня зовут Аня:)">
+</div>
+
 
 <!--
 # <div align="center">👋 Привет! </div>
